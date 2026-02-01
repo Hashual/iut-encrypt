@@ -1,0 +1,20 @@
+{
+  "name": "iut-encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Hashual/iut-encrypt#readme",
+  "bugs": {
+    "url": "https://github.com/Hashual/iut-encrypt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hashual/iut-encrypt.git"
+  },
+  "license": "ISC",
+  "author": "Dorian",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
